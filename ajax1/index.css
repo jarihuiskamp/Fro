@@ -1,0 +1,14 @@
+body{
+	background: lightslategrey;
+}
+
+.wrapper{
+	background-color: #ffffff;
+	width: 300px;
+	border: 2px solid red;
+	border-radius: 15px;
+	margin: 0 auto;
+	padding: 8px;
+	font-family: sans-serif;
+	font-size: 20px;
+}
